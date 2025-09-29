@@ -56,5 +56,6 @@ python main_menu.py
      ![Završetak igre](Rezultati/end.png)
     * ESC izlazi iz aplikacije i ispisuje u terminalu broj uspešnih sletenja i broj padova.
     * R restartuje igru koristeći već odabrani algoritam.
-     ![Poruka u terminalu](Rezultati/terminal_msg.png)
+      
+    ![Poruka u terminalu](Rezultati/terminal_msg.png)
 
