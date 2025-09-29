@@ -48,7 +48,7 @@ python main_menu.py
 * Prikaz drona i platforme u realnom vremenu.
 * Dron automatski koristi izabrani algoritam da pronađe optimalnu putanju.
 * Platforma nasumično menja poziciju tokom igre.
-* Vizuelni prikaz rada algoritama i zvučni efekti.
+* Vizuelni prikaz rada algoritama i zvučni efekti, kao i putanje drona, kako bi se što bolje prikazao način rada algoritama.
 * Simulacija završava kada dron uspešno sleti ili ode van ekrana.
 * Simulacija završava kada dron uspešno sleti ili padne, a na ekranu se prikazuje poruka da:
     * ESC izlazi iz aplikacije i ispisuje u terminalu broj uspešnih sletenja i broj padova.
