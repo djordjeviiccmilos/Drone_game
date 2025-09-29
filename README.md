@@ -50,7 +50,9 @@ python main_menu.py
 * Dron automatski koristi izabrani algoritam da pronađe optimalnu putanju.
 * Platforma nasumično menja poziciju tokom igre.
 * Vizuelni prikaz rada algoritama i zvučni efekti, kao i putanje drona, kako bi se što bolje prikazao način rada algoritama.
+  
    ![Dron sleće ka platformi](Rezultati/game.png)
+  
 * Simulacija završava kada dron uspešno sleti ili ode van ekrana.
 * Simulacija završava kada dron uspešno sleti ili padne, a na ekranu se prikazuje poruka da:
      ![Završetak igre](Rezultati/end.png)
