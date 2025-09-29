@@ -7,7 +7,9 @@ demonstrirati kako dron može automatski da uči optimalno ponašanje za sigurno
 
 * `main.py` – Fajl koji sadrži logiku igre koji se pokreće nakon izbora optimizacionog algoritma.
 * `main_menu.py` – Glavni fajl projekta koji pokreće glavni meni, omogućava izbor algoritma optimizacije i start simulacije.
+  
    ![Glavni meni sa izborom algoritama](Rezultati/main_menu.png)
+  
 * `drone.py` – Sadrži klasu `Drone` sa svim funkcijama vezanim za kretanje drona, primenu algoritama i detekciju sletanja.
 * `platform.py` – Sadrži klasi `Platform` sa svim funkcijama vezanim za nasumično kretanje platforme.
 * `algoritmi/` – Folder koji sadrži implementacije optimizacionih algoritama.
@@ -55,7 +57,9 @@ python main_menu.py
   
 * Simulacija završava kada dron uspešno sleti ili ode van ekrana.
 * Simulacija završava kada dron uspešno sleti ili padne, a na ekranu se prikazuje poruka da:
+  
      ![Završetak igre](Rezultati/end.png)
+
     * ESC izlazi iz aplikacije i ispisuje u terminalu broj uspešnih sletenja i broj padova.
     * R restartuje igru koristeći već odabrani algoritam.
       
