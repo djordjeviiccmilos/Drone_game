@@ -1,7 +1,5 @@
 # Drone Game – Projekat iz Algoritama optimizacije u mašinskom učenju
 
-## Pregled
-
 Ovaj projekat predstavlja simulaciju sletanja drona na pokretnu platformu u Pygame okruženju. Cilj je istražiti različite optimizacione algoritme i 
 demonstrirati kako dron može automatski da uči optimalno ponašanje za sigurno sletanje.
 
@@ -53,6 +51,5 @@ python main_menu.py
 * Vizuelni prikaz rada algoritama i zvučni efekti.
 * Simulacija završava kada dron uspešno sleti ili ode van ekrana.
 * Simulacija završava kada dron uspešno sleti ili padne, a na ekranu se prikazuje poruka da:
-  
-    *ESC izlazi iz aplikacije i ispisuje u terminalu broj uspešnih sletenja i broj padova.
-    *R restartuje igru koristeći već odabrani algoritam.
+    * ESC izlazi iz aplikacije i ispisuje u terminalu broj uspešnih sletenja i broj padova.
+    * R restartuje igru koristeći već odabrani algoritam.
